@@ -1,0 +1,52 @@
+Coding genes;Count;Size [bp];G.cov. [%]
+protein_coding;19850;1266859729;41.021666
+IG_C_gene;14;1107380;0.035858
+IG_D_gene;37;851;0.000028
+IG_J_gene;18;1198;0.000039
+IG_V_gene;139;416511;0.013487
+TR_C_gene;5;531535;0.017211
+TR_D_gene;3;30;0.000001
+TR_J_gene;73;4306;0.000139
+TR_V_gene;106;187581;0.006074
+Summary;20245;1269109121;41.094502
+;;;
+Small non-coding genes;Count;Size [bp];G.cov. [%]
+snRNA;1912;210907;0.006829
+rRNA;548;62357;0.002019
+snoRNA;978;115117;0.003728
+miRNA;3830;338852;0.010972
+misc_RNA;2233;460651;0.014916
+Summary;9501;1187884;0.038464
+;;;
+Long non-coding genes;Count;Size [bp];G.cov. [%]
+lincRNA;7661;200104482;6.479501
+non_coding;1;300;0.000010
+processed_transcript;467;24313687;0.787292
+antisense;5539;110886929;3.590584
+3prime_overlapping_ncrna;27;194395;0.006295
+sense_intronic;914;4996788;0.161799
+sense_overlapping;198;6971059;0.225727
+known_ncrna;2;671;0.000022
+Summary;14809;347468311;11.251229
+;;;
+Pseudo genes;Count;Size [bp];G.cov. [%]
+unitary_pseudogene;169;4006545;0.129734
+IG_C_pseudogene;9;9112;0.000295
+translated_processed_pseudogene;1;639;0.000021
+polymorphic_pseudogene;59;647715;0.020973
+TR_J_pseudogene;4;237;0.000008
+IG_J_pseudogene;3;165;0.000005
+TR_V_pseudogene;30;13064;0.000423
+IG_V_pseudogene;180;67322;0.002180
+pseudogene;29;23803;0.000771
+unprocessed_pseudogene;2569;13798030;0.446788
+transcribed_unprocessed_pseudogene;656;17265215;0.559058
+translated_unprocessed_pseudogene;1;67182;0.002175
+transcribed_processed_pseudogene;441;4692074;0.151932
+processed_pseudogene;10305;8275357;0.267961
+transcribed_unitary_pseudogene;1;6960;0.000225
+Summary;14457;48873420;1.582550
+;;;
+Protein Coding Genes;Count;Size [bp];G.cov. [%]
+Coding transcripts;142987;1266847013;41.021254
+CDS;695157;35083529;1.136025
